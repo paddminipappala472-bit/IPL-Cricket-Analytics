@@ -37,3 +37,12 @@ The objective is to derive meaningful insights at **Match, Team, and Player** le
 - Win percentage varies significantly by venue, highlighting the importance of **home-ground advantage**.
 - Seasonal trends show fluctuations in runs and wickets, suggesting the impact of team composition and playing conditions.
 
+- ## Player Analysis – Key Insights
+- **Virat Kohli** is the highest run-scorer with **8,671 runs**, highlighting exceptional consistency across IPL seasons.
+- **Chris Gayle** leads in six-hitting with **359 sixes**, demonstrating his dominance as a power hitter.
+- **Yuzvendra Chahal** is the top wicket-taker with **229 wickets**, emphasizing his impact as a strike bowler.
+- Boundary analysis shows that top batters differ in scoring styles, with some relying on fours while others dominate through sixes.
+- Strike rate comparison highlights aggressive modern batters who contribute quick runs even with fewer deliveries.
+- Economy rate analysis reveals bowlers who control runs effectively despite not always being among the top wicket-takers.
+
+
