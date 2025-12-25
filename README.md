@@ -29,3 +29,11 @@ The objective is to derive meaningful insights at **Match, Team, and Player** le
 - Total wickets across all seasons stand at **14K**, showing a balanced contest between bat and ball.
 - Teams choose to **field first in nearly 65% of matches**, emphasizing the advantage of chasing in T20 cricket.
 - Recent seasons show an **upward trend in total runs and wickets**, reflecting more aggressive gameplay.
+
+- ## Team Analysis – Key Insights
+- The selected team has played **252 matches** with **142 wins**, resulting in a win percentage of approximately **56%**, indicating consistent performance.
+- The team has scored a total of **41K runs**, with an average of around **163 runs per match**, reflecting a strong batting lineup.
+- Across seasons, the team has taken **1564 wickets**, demonstrating effective bowling performance.
+- Win percentage varies significantly by venue, highlighting the importance of **home-ground advantage**.
+- Seasonal trends show fluctuations in runs and wickets, suggesting the impact of team composition and playing conditions.
+
