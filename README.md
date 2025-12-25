@@ -22,3 +22,10 @@ The objective is to derive meaningful insights at **Match, Team, and Player** le
 ---
 
 ## Dashboards
+## Match Analysis – Key Insights
+- IPL has been played across **36 venues** over **18 seasons**, with a total of **1169 matches**.
+- A cumulative **374K runs** were scored, indicating a high-scoring tournament overall.
+- The tournament recorded **14K fours** and **14K sixes**, highlighting the dominance of boundary hitting.
+- Total wickets across all seasons stand at **14K**, showing a balanced contest between bat and ball.
+- Teams choose to **field first in nearly 65% of matches**, emphasizing the advantage of chasing in T20 cricket.
+- Recent seasons show an **upward trend in total runs and wickets**, reflecting more aggressive gameplay.
